@@ -3,7 +3,7 @@
 An educational hardware kit designed and built to demonstrate the principles of Pulse Width Modulation (PWM) and Pulse Position Modulation (PPM). This project showcases analog circuit design, power supply construction, and the application of the versatile 555 Timer IC.
 
 ## Project Overview
-As the team lead, I directed the end-to-end development of this fully functional, standalone kit. The project involved designing and building a stable dual-voltage power supply from scratch and implementing modulation logic using fundamental electronic components. The final kit serves as a practical tool for visualizing and understanding time-domain modulation techniques.
+As the team lead, I directed the end-to-end development of this fully functional,standalone kit. The project involved designing and building a stable dual-voltage power supply from scratch and implementing modulation logic using fundamental electronic components. The final kit serves as a practical tool for visualizing and understanding time-domain modulation techniques.
 
 ## Key Hardware Components & ICs
 - **Power Supply:** Custom-built ±12V dual voltage power supply using a step-down transformer, bridge rectifier, and **7812/7912** linear voltage regulators.
